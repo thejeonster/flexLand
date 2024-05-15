@@ -1,2 +1,2 @@
 # flexLand
-Landing Page - Flexbox 
+The Odin Project Project - Landing Page - Flexbox 
